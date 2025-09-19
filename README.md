@@ -1,6 +1,14 @@
 # MoE (Mixture of Experts) Agent System - Cloud Run Ready
 
-This repository contains a production-ready implementation of a Mixture of Experts (MoE) agent system, designed for easy deployment to Google Cloud Run.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-14+-black.svg)](https://nextjs.org/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Run-blue.svg)](https://cloud.google.com/run)
+
+Production-ready Mixture of Experts (MoE) agent system optimized for Google Cloud Run deployment.
+
+🔗 **Repository**: [https://github.com/jnsrikanth/moe-agents-cloud-run](https://github.com/jnsrikanth/moe-agents-cloud-run)
 
 ## Project Structure
 
@@ -34,9 +42,18 @@ raw-agent-moe-app/
     └── API.md
 ```
 
-## Quick Start
+## Getting Started
 
-### Local Development
+### Clone the Repository
+
+```bash
+git clone https://github.com/jnsrikanth/moe-agents-cloud-run.git
+cd moe-agents-cloud-run
+```
+
+### Quick Start
+
+#### Local Development
 
 1. **Python Agents**:
 ```bash
